@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="General">
+        <entry name="background_color" type="String">
+            <label>Background Color</label>
+            <default>Black</default>
+        </entry>
+        <entry name="path_color" type="String">
+            <label>Path Color</label>
+            <default>Red</default>
+        </entry>
+        <entry name="possible_tiles_color" type="String">
+            <label>Possible Path Color</label>
+            <default>Yellow</default>
+        </entry>
+        <entry name="current_tile_color" type="String">
+            <label>Current Tile Color</label>
+            <default>Blue</default>
+        </entry>
+        <entry name="tile_scale" type="Int">
+            <label>Tile Scale</label>
+            <default>15</default>
+        </entry>
+        <entry name="speed" type="Int">
+            <label>Speed</label>
+            <default>100</default>
+        </entry>
+  </group>
+
+</kcfg>

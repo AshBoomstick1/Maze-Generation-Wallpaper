@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "%{EMAIL}",
+                "Name": "Ash"
+            }
+        ],
+        "Id": "org.kde.plasma.mazeGeneration",
+        "License": "LGPLv2+",
+        "Name": "Maze Generation Wallpaper",
+        "Icon": "plasma",
+        "Version": "1.0",
+        "Description": "Allows you to use Shaders as your wallpaper"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+
+}
+
+
+
